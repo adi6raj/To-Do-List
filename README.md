@@ -1,7 +1,7 @@
-## To-Do List Application
+## To-Do List Application📱
 This is a Python-based To-Do List application built using the Tkinter library. It helps you organize your tasks efficiently with additional features such as marking tasks as complete, adding due dates, and visually distinguishing completed tasks.💻💻
 
-## Features
+## Features🌟
 1. Add Task
 Allows you to add a new task to the to-do list.
 Tasks are entered in the input field and appear in the task list upon submission.
@@ -28,8 +28,8 @@ Appends the due date to the task description.
 ![output](https://github.com/user-attachments/assets/e0e98216-234b-4b03-a4c8-2feda34efb3d)
 
 
-## How It Works
-Launching the App:📱
+## How It Works🪶
+Launching the App:
 
 Run the Python script in your environment to launch the application.
 A simple GUI window will appear with an input field, buttons, and a list area to manage your tasks.
